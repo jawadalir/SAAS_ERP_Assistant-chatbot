@@ -12,9 +12,9 @@ docx2txt==0.8
 pytesseract==0.3.13
 Pillow==11.0.0
 pypdf==5.1.0
-
-
-
 langchain-core
 langchain-google-genai==2.0.4
 langchain-openai==0.2.9
+
+fastapi==0.115.5
+uvicorn==0.32.1
